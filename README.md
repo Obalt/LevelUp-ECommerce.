@@ -4,7 +4,7 @@
 
 <img width="1104" alt="Level2" src="https://user-images.githubusercontent.com/103001500/179402087-47a797c5-a69b-4fab-a321-62f24735723d.png">
 
-<img width="1105" alt="Level3" src="https://user-images.githubusercontent.com/103001500/179402201-b113bf15-0bbf-4b7b-8faf-c570c900cae3.png">
+
 <img width="1112" alt="Level4" src="https://user-images.githubusercontent.com/103001500/179402280-518a0df6-ef7f-473c-be12-ea51efdcc85f.png">
 
 
